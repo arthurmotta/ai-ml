@@ -1,1 +1,1 @@
-# Repositório de Exercícios em Inteligência Artificial e Machine Learning
+# Repositório de Resumos e Exercícios em Inteligência Artificial e Machine Learning
